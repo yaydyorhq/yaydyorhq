@@ -64,12 +64,12 @@
 
 <!-- Stats Card -->
 <a href="https://github.com/yaydyorhq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaydyorhq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c9d1d9&ring_color=c8ff00&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=yaydyorhq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c9d1d9&ring_color=c8ff00&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 
 <!-- Top Languages -->
 <a href="https://github.com/yaydyorhq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaydyorhq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yaydyorhq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
