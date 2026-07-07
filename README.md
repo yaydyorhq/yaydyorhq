@@ -62,15 +62,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaydyorhq&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c9d1d9&ring_color=c8ff00&include_all_commits=true&count_private=true"/>
+<!-- Stats Card -->
+<a href="https://github.com/yaydyorhq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaydyorhq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c9d1d9&ring_color=c8ff00&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaydyorhq&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=c8ff00&text_color=c9d1d9&langs_count=8"/>
+<!-- Top Languages -->
+<a href="https://github.com/yaydyorhq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaydyorhq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=c8ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yaydyorhq&theme=radical&background=0d1117&hide_border=true&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=yaydyorhq&theme=tokyonight&background=0d1117&hide_border=true&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,7 +97,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yaydyorhq&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yaydyorhq&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
