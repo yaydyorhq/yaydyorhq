@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=c8ff00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=yayb+%7C+yaydyorhq;Graphic+Designer+%26+Digital+Marketing;Web3+%7C+Security+%7C+AI+Automation" alt="Typing SVG" />
 </a>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:0d1117&height=150&section=header" width="100%"/>
-
 </div>
 
 ---
