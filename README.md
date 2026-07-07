@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:1a1a2e&height=220&section=header&text=yaydyorhq&fontSize=80&fontColor=c8ff00&fontAlignY=35&desc=Graphic%20Designer%20%26%20Digital%20Marketing%20|%20BNSP%20Certified&descSize=18&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:0d1117&height=150&section=header" width="100%"/>
 
 </div>
 
@@ -127,6 +127,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
