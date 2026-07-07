@@ -1,36 +1,36 @@
-<![CDATA[<!-- Header with typing animation -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=c8ff00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=yayb+%7C+yaydyorhq;Graphic+Designer+%26+Digital+Marketing;Web3+%7C+Security+%7C+AI+Automation)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=c8ff00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=yayb+%7C+yaydyorhq;Graphic+Designer+%26+Digital+Marketing;Web3+%7C+Security+%7C+AI+Automation" alt="Typing SVG" />
+</a>
 
 ---
 
-<!-- Animated intro line -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:1a1a2e&height=220&section=header&text=yaydyorhq&fontSize=80&fontColor=c8ff00&fontAlignY=35&desc=Graphic%20Designer%20%26%20Digital%20Marketing%20|%20BNSP%20Certified&descSize=18&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="35" height="35" /> About Me
+## 👋 About Me
 
 ```
-🎯 Graphic Designer & Digital Marketing (BNSP Certified)
-🔐 Cybersecurity & Red Teaming enthusiast
-🌐 Web3 / Crypto / DeFi explorer
-🤖 AI Automation & Agent builder
-📍 Indonesia
+🎯  Graphic Designer & Digital Marketing (BNSP Certified)
+🔐  Cybersecurity & Red Teaming enthusiast
+🌐  Web3 / Crypto / DeFi explorer
+🤖  AI Automation & Agent builder
+📍  Indonesia
 ```
 
 - 🔭 Currently building **AI-powered automation tools** & **Web3 security research**
 - 🎨 Designing **brand identities**, **social media content**, and **digital campaigns**
-- 🧠 Learning **smart contract security**, **offensive AI**, and **blockchain forensis**
+- 🧠 Learning **smart contract security**, **offensive AI**, and **blockchain forensics**
 - 💬 Ask me about **design**, **marketing**, **crypto**, or **security**
 - ⚡ *"Limits are for other agents."*
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /> Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -58,28 +58,25 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="35" height="35" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaydyorhq&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c9d1d9&ring_color=c8ff00&include_all_commits=true&count_private=true"/>
 
-<!-- Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaydyorhq&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=c8ff00&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaydyorhq&theme=radical&background=0d1117&hide_border=true&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="35" height="35" /> Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -89,7 +86,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35" height="35" /> Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -99,7 +96,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eye.png" width="35" height="35" /> Profile Views
+## 👁️ Profile Views
 
 <div align="center">
 
@@ -109,7 +106,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -123,7 +120,6 @@
 
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:1a1a2e&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8ff00,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
-]]>
