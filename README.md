@@ -12,7 +12,6 @@
 
 ```
 🎯  Graphic Designer & Digital Marketing (BNSP Certified)
-🔐  Cybersecurity & Red Teaming enthusiast
 🌐  Web3 / Crypto / DeFi explorer
 🤖  AI Automation & Agent builder
 📍  Indonesia
